@@ -1,7 +1,16 @@
 bones
 chatting_robot
 crystalline
+density
 distant_intelligence
+fm
+in_seven
 kLtz
+machines_at_work
+midnight_crawl
+minions
+oatmeal
+playwithtoys
 scheale
 sugar
+waiting_room
